@@ -1,0 +1,6 @@
+Copy link from below and paste in browser to get dataset
+    |
+    |
+    |
+    v
+https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022?resource=download
